@@ -85,10 +85,10 @@
 .u-section-2 .u-icon-1 {
   height: 94px;
   width: 94px;
-  background-image: none;
   text-shadow: 0px 0 0 rgba(0,0,0,0);
-  color: rgb(255, 255, 255) !important;
+  background-image: none;
   margin: -25px auto 0;
+  padding: 23px;
 }
 
 .u-section-2 .u-text-3 {
@@ -127,10 +127,11 @@
 .u-section-2 .u-icon-2 {
   height: 94px;
   width: 94px;
-  background-image: none;
   text-shadow: 0px 0 0 rgba(0,0,0,0);
+  background-image: none;
   color: rgb(0, 0, 0) !important;
   margin: -25px auto 0;
+  padding: 23px;
 }
 
 .u-section-2 .u-text-5 {
@@ -169,10 +170,11 @@
 .u-section-2 .u-icon-3 {
   height: 94px;
   width: 94px;
-  background-image: none;
   text-shadow: 0px 0 0 rgba(0,0,0,0);
+  background-image: none;
   color: rgb(0, 0, 0) !important;
   margin: -25px auto 0;
+  padding: 23px;
 }
 
 .u-section-2 .u-text-7 {
@@ -218,17 +220,16 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-text-2 {
-    width: auto;
-    margin-left: 72px;
-    margin-right: 72px;
-  }
-
-  .u-section-2 .u-list-1 {
-    margin-top: 86px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .u-section-2 .u-repeater-1 {
     min-height: 270px;
+  }
+
+  .u-section-2 .u-icon-1 {
+    color: rgb(255, 255, 255) !important;
   }
 }
 
@@ -434,7 +435,7 @@
 }
 
 .u-section-5 .u-layout-cell-1 {
-  min-height: 661px;
+  min-height: 686px;
   pointer-events: auto;
 }
 
@@ -459,7 +460,7 @@
 
 .u-section-5 .u-text-3 {
   text-align: left;
-  margin: 20px 20px 0 5px;
+  margin: 20px 25px 0 0;
 }
 
 .u-section-5 .u-text-4 {
@@ -468,6 +469,16 @@
 }
 
 .u-section-5 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-5 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-5 .u-btn-4 {
   background-image: none;
   padding: 0;
 }
@@ -490,7 +501,7 @@
 .u-section-5 .u-image-1 {
   min-height: 431px;
   pointer-events: auto;
-  background-image: url("images/RemaptoAxis1.png");
+  background-image: url("images/1.2ButtonToAxis.PNG");
   background-position: 50% 50%;
 }
 
@@ -504,7 +515,7 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
-    min-height: 545px;
+    min-height: 566px;
   }
 
   .u-section-5 .u-text-2 {
@@ -513,7 +524,6 @@
 
   .u-section-5 .u-text-3 {
     margin-right: 0;
-    margin-left: 0;
   }
 
   .u-section-5 .u-text-4 {

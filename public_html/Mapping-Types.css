@@ -13,7 +13,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 572px;
-  background-image: url("images/ButtontoAxis.PNG");
+  background-image: url("images/1.2ButtonToAxis.PNG");
   background-position: 50% 50%;
 }
 
@@ -134,7 +134,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 572px;
-  background-image: url("images/ButtontoButton.PNG");
+  background-image: url("images/1.2ButtonToButton.PNG");
   background-position: 50% 50%;
 }
 
@@ -260,7 +260,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 717px;
-  background-image: url("images/EncodertoButton.PNG");
+  background-image: url("images/1.2EncoderToAxis.PNG");
   background-position: 50% 50%;
 }
 
@@ -389,7 +389,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 515px;
-  background-image: url("images/AxistoAxis.PNG");
+  background-image: url("images/1.2AxisToAxis.PNG");
   background-position: 50% 50%;
 }
 
@@ -406,11 +406,11 @@
 }
 
 .u-section-4 .u-text-1 {
-  margin: 166px 20px 0 0;
+  margin: 52px 20px 0 0;
 }
 
 .u-section-4 .u-text-2 {
-  margin: 10px 0 0;
+  margin: 13px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -529,7 +529,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 507px;
-  background-image: url("images/AxistoButton.PNG");
+  background-image: url("images/1.2AxisToButton.PNG");
   background-position: 50% 50%;
 }
 
@@ -550,7 +550,7 @@
 }
 
 .u-section-5 .u-text-2 {
-  margin: 11px 0 0;
+  margin: 10px 0 0;
 }
 
 @media (max-width: 1199px) {
